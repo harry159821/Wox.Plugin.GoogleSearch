@@ -10,10 +10,10 @@ How to use
 
 ###1.PreView
 
-	such as input 'google 123',<br>
+	such as input 'google 123',
 	some relevant Keyword will be showed.
 
 ###2.Search it
 
-	input more a space:'google 123 ',<br>
+	input more a space:'google 123 ',
 	search result appeard.
