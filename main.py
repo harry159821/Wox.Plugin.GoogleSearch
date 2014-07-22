@@ -38,7 +38,7 @@ def query(Allkey):
 		for item in html['responseData']['results']:
 			res = {}
 			res["Title"] = item['titleNoFormatting']
-			res["SubTitle"] = item['content'].replace('\n','')
+			res["SubTitle"] = item['content'].replace('\n','').replace('<b>','').replace('</b>','')
 			res["ActionName"] = "openUrl"
 			res["IcoPath"] = "./icon.png"
 			res["ActionPara"] = item['url']
