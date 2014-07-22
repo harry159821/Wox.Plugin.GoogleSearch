@@ -1,0 +1,12 @@
+{
+    "ID":"1",
+    "ActionKeyword":"google",
+    "Name":"google",
+    "Description":"googleSearch",
+    "Author":"harry159821",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/harry159821/Wox.Plugin.Google",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"icon.png"
+}
